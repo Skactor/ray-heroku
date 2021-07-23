@@ -1,0 +1,21 @@
+{
+  "name": "test",
+  "description": "test",
+  "keywords": ["test"],
+  "env": {
+    "ID": {
+      "description": "UUID",
+      "value": "ac816457-2d66-4b36-91b6-ab85c68521f7"
+    },
+    "AID": {
+      "description": "AlterID",
+      "value": "64"
+    },
+    "WSPATH": {
+      "description": "WebSocket Path",
+      "value": "/"
+    }
+  },
+  "repository": "https://github.com/Skactor/ray-heroku",
+  "stack": "container"
+}
